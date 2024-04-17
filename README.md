@@ -90,4 +90,5 @@ endmodule
 ![Screenshot (67)](https://github.com/ADARSH778/JKFLIPFLOP-USING-IF-ELSE/assets/149347361/8d1fdc78-5466-4941-a0d0-ac8c0af09d65)
 
 **RESULTS**
+
  Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
