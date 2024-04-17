@@ -38,7 +38,9 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. 
+/*
+Program for flipflops and verify its truth table in quartus using Verilog programming.
+
 Developed by: ADARSH CHOWDARY R
 
 RegisterNumber:212223040166
@@ -88,3 +90,4 @@ endmodule
 ![Screenshot (67)](https://github.com/ADARSH778/JKFLIPFLOP-USING-IF-ELSE/assets/149347361/8d1fdc78-5466-4941-a0d0-ac8c0af09d65)
 
 **RESULTS**
+ Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
